@@ -11,7 +11,7 @@ redirect_from:
 * **R. Ray**, M. Avella Medina, and C. Rush, "Statistical guarantees for data-driven posterior tempering" 
 
 # Publications
-* **R. Ray**, M. Avella Medina, and C. Rush, "Asymptotics for power posterior mean estimation," 59th Annual Allerton Conference on Communication, Control, and Computing [[paper]](https://ieeexplore.ieee.org/document/10313460), [[arXiv]](https://arxiv.org/abs/2310.07900)
+* **R. Ray**, M. Avella Medina, and C. Rush, "Asymptotics for power posterior mean estimation," 59th Annual Allerton Conference on Communication, Control, and Computing [[pdf](https://arxiv.org/pdf/2310.07900), [paper](https://ieeexplore.ieee.org/document/10313460)]
 
 # Invited Presentations
 * **R. Ray**, M. Avella Medina, and C. Rush, "Theoretical Guarantees for Data Dependent Posterior Tempering" 
