@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /teaching/
   - /teaching.html
+output:
+  html_document:
+    df_print: paged
 ---
 
 As a graduate student, I have been a teaching assistant for the following courses:
