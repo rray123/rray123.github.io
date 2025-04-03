@@ -7,13 +7,13 @@ output:
     df_print: paged
 ---
 
-# Working papers
+## Working papers
 * **R. Ray**, M. Avella Medina, and C. Rush, "Statistical guarantees for data-driven posterior tempering" [[pdf](https://rray123.github.io/files/Theoretical_guarantees_for_data_dependent_posterior_tempering-186.pdf)]
 
-# Publications
+## Publications
 * **R. Ray**, M. Avella Medina, and C. Rush, "Asymptotics for power posterior mean estimation," 59th Annual Allerton Conference on Communication, Control, and Computing [[pdf](https://arxiv.org/pdf/2310.07900), [paper](https://ieeexplore.ieee.org/document/10313460)]
 
-# Invited Presentations
+## Invited Presentations
 * **R. Ray**, M. Avella Medina, and C. Rush, "Statistical Guarantees for Data-driven Posterior Tempering"
     * Optimization and Statistical Learning Workshop, Columbia University Deparment of Statistics, New York, NY, April 2025
     * Student Seminar, Columbia University Department of Statistics, New York, NY, March 2025
