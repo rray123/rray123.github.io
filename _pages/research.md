@@ -22,6 +22,3 @@ output:
        
 * **R. Ray**, M. Avella Medina, and C. Rush, “Asymptotics for power posterior mean estimation"
     * 59th Annual Allerton Conference on Communication, Control, and Computing, Monticello, IL, September 2023
-
-* **R. Ray** and J. Berro, "A New Biomechanical Mathematical Model of Force Effects on Actin Dynamics During Clathrin-mediated Endocytosis"
-    * Annual Conference on Quantitative Biology, Northwestern University, Evanston, IL, October 2019
