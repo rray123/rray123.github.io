@@ -1,10 +1,10 @@
 ---
-permalink: /
 title: "Research"
-author_profile: true
-redirect_from: 
-  - /ressearch/
-  - /research.html
+permalink: /research/
+author_profile: yes
+output:
+  html_document:
+    df_print: paged
 ---
 
 # Working papers
