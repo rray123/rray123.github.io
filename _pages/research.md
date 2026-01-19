@@ -7,11 +7,9 @@ output:
     df_print: paged
 ---
 
-## Working papers
-* **R. Ray**, M. Avella Medina, and C. Rush, "Statistical guarantees for data-driven posterior tempering" [latest working version available upon request]
-
 ## Publications
-* **R. Ray**, M. Avella Medina, and C. Rush, "Asymptotics for power posterior mean estimation," 59th Annual Allerton Conference on Communication, Control, and Computing [[pdf](https://arxiv.org/pdf/2310.07900), [paper](https://ieeexplore.ieee.org/document/10313460)]
+* **R. Ray**, M. Avella Medina, and C. Rush, "Statistical Guarantees for Data-driven Posterior Tempering" [[arXiv](https://arxiv.org/abs/2601.09122)]
+* **R. Ray**, M. Avella Medina, and C. Rush, "Asymptotics for power posterior mean estimation," 59th Annual Allerton Conference on Communication, Control, and Computing [[arXiv](https://arxiv.org/abs/2310.07900v2), [paper](https://ieeexplore.ieee.org/document/10313460)]
 
 ## Invited Presentations
 * **R. Ray**, M. Avella Medina, and C. Rush, "Statistical Guarantees for Data-driven Posterior Tempering"
