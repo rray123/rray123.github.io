@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Updated CV](https://rray123.github.io/files/CV-May-2025.pdf)
+[Updated CV](https://rray123.github.io/files/CV-30.pdf)
