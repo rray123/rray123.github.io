@@ -8,6 +8,8 @@ author_profile: true
 ---
 
 As a graduate student, I have been a teaching assistant for the following courses:
+* Applied Categorical Data Analysis (Undergrad), Fall 2025
+* Applied Linear Regression Analysis (Undergrad), Fall 2025
 * Machine Learning (Masters), Spring 2024
 * Exploratory Data Analysis and Visualization (Masters), Fall 2023, Fall 2022
 * Interpretable Machine Learning (Masters), Spring 2023
