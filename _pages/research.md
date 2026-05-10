@@ -7,8 +7,11 @@ output:
     df_print: paged
 ---
 
-## Publications
+## Preprints and working papers
+* **R. Ray**, M. Avella Medina, and C. Rush, "Suboptimality of the exponential mechanism for differentially private M-estimation" (working paper)
 * **R. Ray**, M. Avella Medina, and C. Rush, "Statistical Guarantees for Data-driven Posterior Tempering" [[arXiv](https://arxiv.org/abs/2601.09122)]
+
+## Publications
 * **R. Ray**, M. Avella Medina, and C. Rush, "Asymptotics for power posterior mean estimation," 59th Annual Allerton Conference on Communication, Control, and Computing [[arXiv](https://arxiv.org/abs/2310.07900v2), [paper](https://ieeexplore.ieee.org/document/10313460)]
 
 ## Invited Presentations
