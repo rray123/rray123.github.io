@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Department of Statistics at Columbia University, advised by [Cynthia Rush](https://www.columbia.edu/~cgr2130/) and [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home?authuser=1). I received my BS and MA in Statistics and Data Science at Yale University. [Here](https://github.com/rray123/rray123.github.io/files/CV.pdf) is a link to my CV.
+I am a PhD candidate at the Department of Statistics at Columbia University, advised by [Cynthia Rush](https://www.columbia.edu/~cgr2130/) and [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home?authuser=1). I received my BS and MA in Statistics and Data Science at Yale University. Here is a link to my CV.
 
 My research interests lie at the intersection of theoretical statistics and machine learning (ML). Specifically, I focus on a few key areas:
 * **Differential Privacy (DP), algorithmic fairness**: DP optimization, privacy-preserving analysis of heterogeneous data, design of DP sampling algorithms
