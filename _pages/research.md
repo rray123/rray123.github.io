@@ -8,7 +8,7 @@ output:
 ---
 
 ## Preprints and working papers
-* **Ruchira Ray**, [Peihan Liu](https://peihanliu.com), and [Rachel Cummings](https://rachelcummings.com), "“Optimal privacy budget allocation for differentially private mean estimation"
+* **Ruchira Ray**, [Peihan Liu](https://peihanliu.com), and [Rachel Cummings](https://rachelcummings.com), "Optimal privacy budget allocation for differentially private mean estimation"
 * **Ruchira Ray**, [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home), and [Cynthia Rush](https://www.columbia.edu/~cgr2130/), "Differentially private M-estimation via exponential mechanism" (working paper)
 * **Ruchira Ray**, Marco Avella Medina, and Cynthia Rush, "Statistical Guarantees for Data-driven Posterior Tempering" [[arXiv](https://arxiv.org/abs/2601.09122)]
 
